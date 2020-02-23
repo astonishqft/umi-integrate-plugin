@@ -6,7 +6,7 @@
     "name": "qi.futao",
     "email": "1551601581@qq.com"
   },
-  "repository": "whalecloud/umi-uportal-plugin",
+  "repository": "https://github.com/astonishqft/umi-integrate-plugin",
   "peerDependencies": {
     "umi": "2.x || ^2.9.0-0"
   },
