@@ -1,6 +1,4 @@
-import {
-  writeFileSync,
-} from 'fs-extra';
+import { writeFileSync } from 'fs-extra';
 
 import { join } from 'path';
 
